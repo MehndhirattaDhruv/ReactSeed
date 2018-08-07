@@ -1,1 +1,1 @@
-This is a Seed for react with lastest npm dependency
+This is a Seed for react with latest npm dependency
