@@ -1,1 +1,1 @@
-This is a test seed for sandeep
+This is a Seed for react with latest npm dependency
