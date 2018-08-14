@@ -27,7 +27,6 @@ export default class Overview extends React.Component{
                 <p><i className="fab fa-node-js"></i> <span> Javascript </span></p>
                 <p><i className="fab fa-react"></i> <span> React js  </span></p>
                 <p><i className="fab fa-react"></i> <span> Redux </span></p>
-                <p><i className="fab fa-css3"></i> <span> SCSS </span></p>
                 <p><i className="fab fa-html5"></i> <span> SCSS </span></p>
                 <p><i className="fab fa-node"></i> <span> Node  </span></p>
 
